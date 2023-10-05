@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1696257884 source:c:\users\gonza\onedrive\documentos\hilos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+

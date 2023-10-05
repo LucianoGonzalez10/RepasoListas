@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1695821465 source:c:\users\gonza\onedrive\documentos\listasrecursiva\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+

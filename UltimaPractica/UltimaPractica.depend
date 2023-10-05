@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1696467231 source:c:\users\gonza\onedrive\documentos\ultimapractica\main.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	<ctype.h>
+

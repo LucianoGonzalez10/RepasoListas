@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1696424883 source:c:\users\gonza\onedrive\documentos\boletosloteria\main.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	<ctype.h>
+

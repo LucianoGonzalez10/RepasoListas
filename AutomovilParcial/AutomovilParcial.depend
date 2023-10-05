@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1696422540 source:c:\users\gonza\onedrive\documentos\automovilparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	<ctype.h>
+

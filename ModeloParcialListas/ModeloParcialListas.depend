@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1695925747 source:c:\users\gonza\onedrive\documentos\modeloparciallistas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	<ctype.h>
+

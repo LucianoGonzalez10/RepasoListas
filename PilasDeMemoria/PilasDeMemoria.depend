@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1696465199 source:c:\users\gonza\onedrive\documentos\pilasdememoria\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1696004892 source:c:\users\gonza\onedrive\documentos\listasmarangoni\main.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	<ctype.h>
+

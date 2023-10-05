@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1696274549 source:c:\users\gonza\onedrive\documentos\parciallistaswarmup\main.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	<ctype.h>
+
